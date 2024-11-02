@@ -1,0 +1,60 @@
+body {
+      font-size: 15px;
+      font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: wheat  
+}
+h2:hover{
+    color:black
+}
+*{
+  background-color: #a46e2d;
+}
+a{
+    text-decoration: none;
+    color: white
+}
+
+img{
+    width: 300px; height: 300px;
+    margin-right: 10px;
+    display: inline-block;
+    border: solid white;
+  }
+  h1{
+    text-transform: uppercase;
+    text-align: center;
+    background-color:wheat
+  }
+  .social
+  {
+    color: bisque;
+    transition: 0.5s;
+    border-radius: 10px;
+  background: white;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+    margin: 5px;
+  }
+  .social:hover{
+    color: black;
+  }
+  li{
+    text-decoration: none;
+  }
+  .a{
+    transition: 0.4s;
+    color: wheat;
+  }
+  p{
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+  }
+  div {
+    box-shadow: 10px 10px;
+  }
+  
+  
